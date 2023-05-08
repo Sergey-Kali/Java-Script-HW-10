@@ -2,4 +2,3 @@
 
 ## How to use
 Write your tests and include it afet the scripts with your code
-Привіт. Перевірка опису репозиторія!!!
